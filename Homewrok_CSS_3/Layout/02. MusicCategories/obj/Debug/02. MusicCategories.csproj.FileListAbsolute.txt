@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\02. MusicCategories\bin\_02.MusicCategories.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\02. MusicCategories\bin\_02.MusicCategories.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\02. MusicCategories\obj\Debug\_02.MusicCategories.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\02. MusicCategories\obj\Debug\_02.MusicCategories.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\02. MusicCategories\obj\Debug\02. MusicCategories.csprojResolveAssemblyReference.cache

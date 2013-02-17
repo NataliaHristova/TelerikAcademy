@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\05. ProductsAndPrices\bin\_05.ProductsAndPrices.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\05. ProductsAndPrices\bin\_05.ProductsAndPrices.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\05. ProductsAndPrices\obj\Debug\05. ProductsAndPrices.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\05. ProductsAndPrices\obj\Debug\_05.ProductsAndPrices.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\05. ProductsAndPrices\obj\Debug\_05.ProductsAndPrices.pdb

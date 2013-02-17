@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\02. CSS правила за презентация\Homewrok_CSS_2\CSS-Presentation\CSS-Presentation\bin\CSS-Presentation.dll
+D:\Documents\Telerik Academy\CSS\02. CSS правила за презентация\Homewrok_CSS_2\CSS-Presentation\CSS-Presentation\bin\CSS-Presentation.pdb
+D:\Documents\Telerik Academy\CSS\02. CSS правила за презентация\Homewrok_CSS_2\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\02. CSS правила за презентация\Homewrok_CSS_2\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.dll
+D:\Documents\Telerik Academy\CSS\02. CSS правила за презентация\Homewrok_CSS_2\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.pdb

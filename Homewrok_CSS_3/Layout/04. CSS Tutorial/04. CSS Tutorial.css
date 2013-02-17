@@ -1,0 +1,113 @@
+﻿/*TO DO
+    buttons background img
+    h1
+    content width and width at all
+    padding between p - to put <a> in p
+    padding top bott - in rightAside
+    */
+
+body, nav, aside, div, h1, h2, h3, ul, li, a {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+    h2:not(#homeHeading) {
+        color: white;
+        background-color: #808080;
+        line-height: 15px;
+    }
+
+button {
+    width: 100px;
+    cursor: pointer;
+}
+
+s
+
+hr {
+    border: 1px solid #808080;
+}
+
+
+input[type="text"] {
+    width: 100px;
+}
+
+.container {
+    width: 875px;
+    height: 650px;
+    margin-top: 30px;
+    margin-left: 280px;
+    background-color: #f1f1f1;
+    font-family: verdana,helvetica,arial,sans-serif;
+    font-size: 12px;
+}
+
+.container, button {
+    border: 1px solid black;
+}
+
+.leftAside h2, .leftAside h3, .leftAside div {
+    margin-top: 10px;
+}
+
+.leftAside li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.leftAside, .rightAside {
+    width: 180px;
+    height: 800px;
+}
+
+    .leftAside h3, .rightAside a, .content section article a {
+        color: #840000;
+    }
+
+.content, .leftAside, #homeImage, #cssImage {
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.rightAside {
+    margin-left: 695px;
+    text-align: center;
+    background-color: #fff;
+}
+
+    .rightAside div {
+        border: 1px solid #b1b1b1;
+    }
+
+#homeImage {
+    width: 15px;
+    height: 15px;
+}
+
+#styles {
+    width: 100px;
+    height: 30px;
+}
+
+#cssImage {
+    width: 100px;
+    height: 70px;
+}
+
+.content {
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+    border: 1px solid black;
+    margin-top: 2px;
+}

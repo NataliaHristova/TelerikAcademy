@@ -1,0 +1,49 @@
+﻿body {
+    background-color: #a9a9a9;
+}
+/*HEADERS*/
+h1, a {
+    color: #fafad2;
+}
+
+header {
+    text-align: center;
+}
+
+section header {
+    text-align: left;
+}
+/*NAV*/
+nav {
+    text-align: center;
+}
+
+    nav li {
+        list-style: none;
+    }
+
+li:last-child {
+    text-decoration: underline;
+}
+
+.current {
+    background-color: #d3d3d3;
+}
+/*LINKS*/
+a {
+    text-decoration: none;
+}
+/*FOOTERS*/
+
+footer a {
+    color: #000000;
+}
+
+footer {
+    text-align: center;
+}
+
+section footer {
+    text-align: left;
+    font-size: 11px;
+}

@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\01. Lists\bin\_01.Lists.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\01. Lists\bin\_01.Lists.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\01. Lists\obj\Debug\01. Lists.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\01. Lists\obj\Debug\_01.Lists.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\01. Lists\obj\Debug\_01.Lists.pdb

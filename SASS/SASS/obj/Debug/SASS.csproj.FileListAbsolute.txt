@@ -1,0 +1,10 @@
+D:\Documents\Telerik Academy\SASS\SASS\bin\SASS.dll
+D:\Documents\Telerik Academy\SASS\SASS\bin\SASS.pdb
+D:\Documents\Telerik Academy\SASS\SASS\obj\Debug\SASS.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\SASS\SASS\obj\Debug\SASS.dll
+D:\Documents\Telerik Academy\SASS\SASS\obj\Debug\SASS.pdb
+D:\Documents\Telerik Academy\CSS\SASS\SASS\bin\SASS.dll
+D:\Documents\Telerik Academy\CSS\SASS\SASS\bin\SASS.pdb
+D:\Documents\Telerik Academy\CSS\SASS\SASS\obj\Debug\SASS.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\SASS\SASS\obj\Debug\SASS.dll
+D:\Documents\Telerik Academy\CSS\SASS\SASS\obj\Debug\SASS.pdb

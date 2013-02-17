@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\06. btwNews\bin\_06.btwNews.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\06. btwNews\bin\_06.btwNews.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\06. btwNews\obj\Debug\_06.btwNews.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\06. btwNews\obj\Debug\_06.btwNews.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\06. btwNews\obj\Debug\06. btwNews.csprojResolveAssemblyReference.cache

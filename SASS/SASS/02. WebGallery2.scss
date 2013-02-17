@@ -1,0 +1,82 @@
+body, div, input, label, img, span{
+margin:0;
+padding:0;
+
+}
+
+body{
+	padding-left:60px;
+	padding-top:30px;
+
+	div{
+
+		div.gallery-image{
+
+			display:inline-block;
+
+			img.bigSize{
+				poition:absolute;
+				display:none;
+				width:180px;
+				height:180px;
+				
+				}
+
+			input{
+
+				display:none;
+
+				&:checked ~ img.bigSize{
+
+					display:block;
+					position:absolute;
+					opacity:1;
+					top:280px;
+					left:50px;
+					width:380px;
+					height:380px;
+
+				}
+			}
+
+			label{
+
+				display: block;
+				cursor:pointer;
+				width:180px;
+				height:180px;
+				margin:5px;
+				float: left;
+				overflow:visible;
+
+				img{
+
+					position:relative;
+					margin:5px;
+					left:0px;
+					top:0px;
+					width:180px;
+					height:180px;
+					opacity:0.7;
+					transition: width 0.2s ease,height 0.2s ease,left 0.2s ease,top 0.2s ease;
+					-webkit-transition: width 0.2s ease,height 0.2s ease,left 0.2s ease,top 0.2s ease;
+					-o-transition: width 0.2s ease,height 0.2s ease,left 0.2s ease,top 0.2s ease;
+					-moz-transition: width 0.2s ease,height 0.2s ease,left 0.2s ease,top 0.2s ease;
+					
+
+				}
+
+					&:hover img{
+
+						width:250px;
+						height:250px;
+						left:-50px;
+						top:-25px;
+						opacity:1;
+						z-index:9999;
+					}
+			}
+
+		}
+	}
+}

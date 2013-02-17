@@ -1,0 +1,73 @@
+﻿body, div, section, article, p, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: #eeeeee;
+    width: 385px;
+    height: 500px;
+    margin: 20px;
+    padding: 15px 12px 20px 12px;
+    border-radius: 7px;
+    font: 12px arial;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+section {
+    border: 1px solid #a6a6a6;
+    height: 120px;
+    width: 380px;
+    background-color: #ffffff;
+    margin-top: 40px;
+}
+
+
+
+article {
+    margin: 15px;
+    margin-bottom: 0px;
+}
+
+img {
+    height: 85px;
+    width: 130px;
+    float: left;
+    border: 1px solid #a6a6a6;
+    margin-right: 15px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+button {
+    color: #ffffff;
+    font-size: 9px;
+    border: 2px solid #b22121;
+    height: 22px;
+    margin-top: 21px;
+    position: absolute;
+}
+    button:hover {
+        cursor:pointer;
+    }
+
+.btnListen {
+    background: url('images/buttonListen.png');
+    width: 60px;
+    margin-left: 235px;
+}
+
+.btnAdd {
+    background: url('images/buttonAdd.png');
+    width: 50px;
+    margin-left: 300px;
+}

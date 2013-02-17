@@ -1,0 +1,79 @@
+﻿body, div, ul, li {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 700px;
+    height: 400px;
+    background-color: #1e3741;
+    border-radius: 8px;
+    margin: 20px;
+    color: #a4aeaf;
+    font-family: Corbel;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#content {
+    width: 100%;
+    height: 300px;
+}
+
+#mainMenu li, #subMenu a {
+    list-style: none;
+    float: left;
+    display: inline-block;
+}
+
+aside {
+    padding-top: 12px;
+    float: left;
+}
+
+hr {
+    border-color: #a4aeaf;
+}
+
+#mainMenu li {
+    background-color: #4b5f67;
+    margin: 1px;
+    padding: 11px;
+    text-align: center;
+}
+
+    #mainMenu li:hover, #subMenu a:hover {
+        color: #fff;
+        cursor: pointer;
+    }
+
+    #mainMenu li:hover, #mainMenu li:first-child {
+        background-color: #1e3741;
+        text-decoration: underline;
+        color: #fff;
+    }
+
+#subMenu {
+    width: 270px;
+}
+
+    #subMenu a {
+        width: 256px;
+    }
+
+    #subMenu a {
+        padding: 7px;
+        padding-left: 10px;
+    }
+
+        #subMenu a:hover {
+            background-color: #00968c;
+        }
+
+img {
+    width: 380px;
+    height: 290px;
+    margin-left: 270px;
+    margin-top: 55px;
+    position: fixed;
+}

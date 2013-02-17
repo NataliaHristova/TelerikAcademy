@@ -1,0 +1,5 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\04. CSS Tutorial\bin\_04.CSS_Tutorial.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\04. CSS Tutorial\bin\_04.CSS_Tutorial.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\04. CSS Tutorial\obj\Debug\_04.CSS_Tutorial.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\04. CSS Tutorial\obj\Debug\_04.CSS_Tutorial.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\04. CSS Tutorial\obj\Debug\04. CSS Tutorial.csprojResolveAssemblyReference.cache

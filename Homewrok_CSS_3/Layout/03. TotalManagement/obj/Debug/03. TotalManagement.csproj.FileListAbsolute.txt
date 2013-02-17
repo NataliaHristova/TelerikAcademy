@@ -1,0 +1,10 @@
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Layout\03. TotalManagement\bin\_03.TotalManagement.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Layout\03. TotalManagement\bin\_03.TotalManagement.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Layout\03. TotalManagement\obj\Debug\_03.TotalManagement.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Layout\03. TotalManagement\obj\Debug\_03.TotalManagement.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Layout\03. TotalManagement\obj\Debug\03. TotalManagement.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\03. TotalManagement\bin\_03.TotalManagement.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\03. TotalManagement\bin\_03.TotalManagement.pdb
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\03. TotalManagement\obj\Debug\03. TotalManagement.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\03. TotalManagement\obj\Debug\_03.TotalManagement.dll
+D:\Documents\Telerik Academy\CSS\03. CSS правила за позициониране и изглед\Homewrok_CSS_3\Layout\03. TotalManagement\obj\Debug\_03.TotalManagement.pdb
